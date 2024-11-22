@@ -1,11 +1,11 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body Styles */
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f9fafc;
@@ -15,7 +15,7 @@ body {
     margin: 0;
 }
 
-/* Header Styles */
+
 header {
     background: linear-gradient(90deg, #4b6cb7, #182848);
     color: #fff;
@@ -43,7 +43,7 @@ nav ul li a:hover {
     color: #ffdd57;
 }
 
-/* Main Content Styles */
+
 main {
     max-width: 800px;
     margin: 2rem auto;
@@ -65,7 +65,7 @@ main p {
     color: #555;
 }
 
-/* Footer Styles */
+
 footer {
     text-align: center;
     padding: 1rem 0;
